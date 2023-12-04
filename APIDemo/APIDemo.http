@@ -1,0 +1,6 @@
+@APIDemo_HostAddress = http://localhost:5224
+
+GET {{APIDemo_HostAddress}}/api/Recipient
+Accept: application/json
+
+##
